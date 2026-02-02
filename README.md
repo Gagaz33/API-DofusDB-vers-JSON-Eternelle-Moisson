@@ -7,3 +7,6 @@
 ⚠️ Certaines manip sont toujours à faire à la main :
 - Supprimer les Expéditions
 - Remplacer les sous-zones de Bonta et Brakmar par "Bonta" et "Brakmar"
+
+
+Merci à https://dofusdb.fr/ pour l'API
